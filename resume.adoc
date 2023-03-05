@@ -1,0 +1,117 @@
+﻿# Luke Whitehorn Resume
+// :stylesheet: stylesheet.css
+
+[.text-right.emphasis] 
+Senior Scientific Animatior / Houdini TD / Pipeline Engineer
+
+## Experience
+[options=header, frame=none, grid=rows]
+|====
+| Employer | From | To | Position & responsibilities
+| Nymus 3D
+    | Jun 2014 | Present | Senior Scientific Animator, tool developer, farm manager
+| Massive Entertainment -- A Unisoft Studio
+    | Dec 2012 | Apr 2013 | Shading & Texture artist -- E3 cinematic for Tom Clancy's The Division
+| Energia Productions
+    | Mar 2011 | Dec 2011 | Visual FX Artist / Tool Developer
+| Inferno Ltd. 
+    | Jul 2010 | Sep 2010 | 3D artist, project management
+| The Atomic Weapons Establishment (AWE)
+// | 16/08/04 | 31/01/08 
+    | Aug 2004 | Jan 2008| Explosives scientist, theoretical modeller & developer
+|====
+
+## Education
+2-1 Master of Physics with Honours Physics with Space Science & Systems +
+University of Kent at Canterbury +
+Sep 1997 — Jul 2001
+// 1997-09-01 — 2001-07-01
+
+## Achievements
+* Co-author: _A Peninsular Structure Coordinates Asynchronous Differentiation with Morphogenesis to Generate Pancreatic Islets_
+link:https://www.cell.com/cell/fulltext/S0092-8674(18)31586-1[] 
+link:https://nymus3d.com/scientific/animation/embryonic-development-of-the-islets-of-langerhans[]
+
+
+## DCCs
+* Houdini
+* LightWave 3D
+* After Effects
+* Photoshop
+* Nuke
+* Fusion
+* Davinci Resolve
+* Inkscape
+* Renderpal
+
+## Render Managers
+* RenderPal v2
+* Afanasy
+* OpenCue
+
+## Programming Languages
+* Python
+** Debugpy
+** Flask
+** Flask-SQLAlchemy
+** Flask-Smorest
+** OpenAPI
+** PySide2
+** Setuptools
+** Sphinx
+** Tox
+** click
+** dotenv
+** flask-marshmallow
+** gunicorn
+** marshmallow
+** psycopg2
+** pytest
+** requests
+* Bash
+* Batch Script
+* C++
+* Cmake
+* PostgresSQL
+* Powershell
+
+## Markup Languages
+* asciidoc
+* Org
+* PlantUML
+* LaTeX
+* ReStructuredtext
+
+
+## Tools
+* Activity Watch
+* Docker
+* Git & Git LFS
+* Google Cloud
+* ImageMagick
+* Kitsu
+* MongoDb
+* OIIO
+* OpenCue
+* OpenPype
+* Pandoc
+* Parsec
+* Rez
+* Shotgrid
+* Toggl
+* ffmpeg
+* vscode
+* Visual Studio
+* Winget
+
+## Operating Systems
+### Windows
+### Linux
+* Ubuntu / Pop_OS
+* Rocky Linux 9
+* CentOS 7
+
+## Interests
+* History
+* Science Fiction
+* Playing the guitar
