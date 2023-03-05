@@ -1,31 +1,40 @@
-﻿# Luke Whitehorn Resume
+﻿# Resume -- Luke Whitehorn
+// :author: Luke Whitehorn
+:doctype: article
+:email: luke.whitehorn@gmail.com
+:icons: font
+:icon-set: fas
+:e1: icon:circle[] icon:circle-thin[] icon:circle-thin[] 
+:e2: icon:circle[] icon:circle[]  icon:circle-thin[]  icon:circle-thin[]
+:e3: icon:circle[] icon:circle[] icon:circle[]  icon:circle-thin[]
+:e4: icon:circle[] icon:circle[] icon:circle[] icon:circle[]
 // :stylesheet: stylesheet.css
 
 [.text-right.emphasis] 
 Senior Scientific Animatior / Houdini TD / Pipeline Engineer
 
+## Education
+*University of Kent at Canterbury* +
+[.small]#Sep 1997 — Jul 2001# +
+Master of Physics with Honours Physics with Space Science & Systems (2-1)
+// 1997-09-01 — 2001-07-01
+
 ## Experience
-[options=header, frame=none, grid=rows]
+[cols="1,1,3", options=header, frame=none, grid=rows]
 |====
-| Employer | From | To | Position & responsibilities
+| Employer | Dates | Position & responsibilities
 | Nymus 3D
-    | Jun 2014 | Present | Senior Scientific Animator, tool developer, farm manager
+    | Jun 2014 --  Present | Senior Scientific Animator, tool developer, farm manager
 | Massive Entertainment -- A Unisoft Studio
-    | Dec 2012 | Apr 2013 | Shading & Texture artist -- E3 cinematic for Tom Clancy's The Division
+    | Dec 2012 --  Apr 2013 | Shading & Texture artist -- E3 cinematic for Tom Clancy's The Division
 | Energia Productions
-    | Mar 2011 | Dec 2011 | Visual FX Artist / Tool Developer
+    | Mar 2011 --  Dec 2011 | Visual FX Artist / Tool Developer
 | Inferno Ltd. 
-    | Jul 2010 | Sep 2010 | 3D artist, project management
+    | Jul 2010 --  Sep 2010 | 3D artist, project management
 | The Atomic Weapons Establishment (AWE)
 // | 16/08/04 | 31/01/08 
     | Aug 2004 | Jan 2008| Explosives scientist, theoretical modeller & developer
 |====
-
-## Education
-2-1 Master of Physics with Honours Physics with Space Science & Systems +
-University of Kent at Canterbury +
-Sep 1997 — Jul 2001
-// 1997-09-01 — 2001-07-01
 
 ## Achievements
 * Co-author: _A Peninsular Structure Coordinates Asynchronous Differentiation with Morphogenesis to Generate Pancreatic Islets_
@@ -33,22 +42,40 @@ link:https://www.cell.com/cell/fulltext/S0092-8674(18)31586-1[]
 link:https://nymus3d.com/scientific/animation/embryonic-development-of-the-islets-of-langerhans[]
 
 
-## DCCs
-* Houdini
-* LightWave 3D
-* After Effects
-* Photoshop
-* Nuke
-* Fusion
-* Davinci Resolve
-* Inkscape
-* Renderpal
 
-## Render Managers
-* RenderPal v2
-* Afanasy
-* OpenCue
+[cols="1,1,1,1", frame=none, grid=none]
+|====
 
+4+a| ## DCCs
+| Houdini | {e4}
+| LightWave 3D | {e4}
+| After Effects | {e3}
+| Photoshop | {e3}
+| Nuke | {e3}
+| Fusion | {e2}
+| Davinci Resolve | {e2}
+| Inkscape | {e2}
+| Renderpal | {e3} 
+||
+|====
+
+[cols="1,1,1,1", frame=none, grid=none]
+|====
+
+4+a| ## Render Managers
+| Afanasy | {e4}
+| RenderPal v2 | {e4}
+| OpenCue | {e1}
+||
+
+|====
+
+
+
+[cols="1,1", frame=none, grid=none]
+|====
+
+a|
 ## Programming Languages
 * Python
 ** Debugpy
@@ -75,14 +102,7 @@ link:https://nymus3d.com/scientific/animation/embryonic-development-of-the-islet
 * PostgresSQL
 * Powershell
 
-## Markup Languages
-* asciidoc
-* Org
-* PlantUML
-* LaTeX
-* ReStructuredtext
-
-
+a|
 ## Tools
 * Activity Watch
 * Docker
@@ -103,6 +123,16 @@ link:https://nymus3d.com/scientific/animation/embryonic-development-of-the-islet
 * vscode
 * Visual Studio
 * Winget
+
+|====
+
+## Markup Languages
+* asciidoc
+* Org
+* PlantUML
+* LaTeX
+* ReStructuredtext
+
 
 ## Operating Systems
 ### Windows
